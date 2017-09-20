@@ -100,3 +100,15 @@ p {
 .footer a {
   color: #ff3860;
 }
+
+/*media queries*/
+@media screen and (max-width: 900px) {
+  #showcase h1 {
+    font-size: 2.15rem;
+    padding: 0 5px;
+  }
+
+  p {
+    font-size: 1.25rem;
+  }
+}
