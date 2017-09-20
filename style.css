@@ -55,7 +55,7 @@ p {
 }
 
 #background img {
-  width: 65%;
+  width: 75%;
   border-radius: 8px;
   margin: 0 auto;
 }
@@ -74,6 +74,13 @@ p {
 
 #social .fa {
   color: #ff3860;
+}
+
+.table td, .table th {
+  border: 1px solid #dbdbdb;
+  border-width: 0 0 1px;
+  padding: .75em;
+  vertical-align: top;
 }
 
 .video-responsive {
