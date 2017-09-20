@@ -11,4 +11,4 @@
 
 ## Screenshot
 
-![web page screenshot](https://ibb.co/cJPYKQ "web page screenshot" | width=500)
+![web page screenshot](https://github.com/michellejanosi/alison-wonderland/blob/master/img/screenshot.png "web page screenshot")
